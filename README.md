@@ -8,7 +8,7 @@
 
 - 📜 For missives, send to my castle **joyabrianrantepasang14@gmail.com**
 
-- 📜 Learn of my experiences, writ briefly [https://www.linkedin.com/in/joy-abrian-rantepasang-a0499b2a7/](https://www.linkedin.com/in/joy-abrian-rantepasang-a0499b2a7/)
+- 🗂️ Learn of my experiences, writ briefly [https://www.linkedin.com/in/joy-abrian-rantepasang-a0499b2a7/](https://www.linkedin.com/in/joy-abrian-rantepasang-a0499b2a7/)
 
 - ⚔️ A mirthful truth **Mine heart doth favor the medieval age with fervor! ⚡**
 
