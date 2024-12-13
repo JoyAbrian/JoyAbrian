@@ -2,6 +2,8 @@
 <img align="right" alt="coding" width="400" src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_512.gif">
 <h3 align="center">"The saddest thing about betrayal is that it never comes from your enemies." — Unknown</h3>
 
+<br>
+
 - 🏰 Presently, I embark on **mastering the art of game development. 🎮**
 
 - 💬 Desire for discussion? **game development, etc**
