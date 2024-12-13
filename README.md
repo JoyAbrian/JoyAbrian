@@ -1,6 +1,6 @@
 <h1 align="center">Greetings, Foreigner.. I'm Joy Abrian Rantepasang</h1>
 <img align="right" alt="coding" width="400" src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_512.gif">
-<h3 align="center">"In the chapters of life's book, I find myself a student, navigating the intricate prose of Information Systems at Universitas Hassanuddin. Amidst the data's dance, I seek wisdom, for in the middle years, knowledge blooms like a timeless flower."</h3>
+<h3 align="center">"The saddest thing about betrayal is that it never comes from your enemies." — Unknown</h3>
 
 - 🏰 Presently, I embark on **mastering the art of game development. 🎮**
 
