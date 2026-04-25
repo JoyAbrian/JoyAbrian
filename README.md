@@ -1,5 +1,5 @@
 # Hi there, I'm Joy Abrian Rantepasang 👋
-### Indie Game Developer | FrontEnd Web Enthusiast
+### Indie Game Developer | Frontend Web Enthusiast
 
 I am a passionate Game Developer and student at Hasanuddin University, focused on creating immersive experiences through code and design. I love bridging the gap between complex game mechanics and intuitive web interfaces.
 
