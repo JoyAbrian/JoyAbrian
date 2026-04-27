@@ -28,7 +28,7 @@ I am a passionate Game Developer and student at Hasanuddin University, focused o
 
 ### 📫 Connect with me:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joy-portfolio-web.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joy-portfolio-web.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joy-abrian-rantepasang/)
 [![Itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white)](https://ruukaze.itch.io/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joyabrianrantepasang14@gmail.com)
